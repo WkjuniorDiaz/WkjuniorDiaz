@@ -3,7 +3,7 @@
 - 🎓 I work as a QA Engineer at Oktana
 - 🔭 I’m currently working on **Selenium**
 - 🌱 I’m currently learning **Webdriver.io**
-- 🤔 I’m looking for help with Selenium
+- 🤔 I’m looking for help with Selenium, design patterns
 - 💬 I would love to talk about framework for automations
 
 
