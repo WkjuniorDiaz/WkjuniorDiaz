@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Junior - Welcome to my GitHub!
 
-- 🎓 I work as a QA Engineer at Oktana
+- 🎓 I work as a QA Engineer
 - 🔭 I’m currently working on **Selenium**
 - 🌱 I’m currently learning **Rest-assured, Webdriver.io**
 - 🤔 I’m looking for help with Selenium, design patterns
