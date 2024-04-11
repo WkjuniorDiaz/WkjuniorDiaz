@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Junior - Welcome to my GitHub!
 
 - 🎓 I work as a QA Engineer
-- 🔭 I’m currently working on **Selenium**
-- 🌱 I’m currently learning **Rest-assured, Webdriver.io**
-- 🤔 I’m looking for help with Selenium, design patterns
-- 💬 I would love to talk about framework for automations
+- 🔭 I’m currently working on **Webdriverio**
+- 🌱 I’m currently learning **Cypress**
+- 🤔 I’m looking forward to help with automation frameworks like Selenium, Webdriverio
+- 💬 I would love to talk about design patterns for automation projects
 
 
 <h3 align="left">Languages and Tools:</h3>
