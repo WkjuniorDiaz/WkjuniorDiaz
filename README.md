@@ -1,9 +1,9 @@
 ### Hi there 👋 My name is Junior - Welcome to my GitHub!
 
 - 🎓 I work as a QA Engineer
-- 🔭 I’m currently working on **Webdriverio**
-- 🌱 I’m currently learning **Cypress**
-- 🤔 I’m looking forward to help with automation frameworks like Selenium, Webdriverio
+- 🔭 I’m currently working on **building automation framework from scratch such as Cypress, Selenium Webdriver, WebdriverIO**
+- 🌱 I’m currently learning **Python with Selenium Webdriver**
+- 🤔 I’m looking forward to help with automation frameworks like Selenium Webdriver, WebdriverIO, Cypress
 - 💬 I would love to talk about design patterns for automation projects
 
 
